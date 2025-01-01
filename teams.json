@@ -9,7 +9,7 @@
             "Chris Kreider",
             "Brandon Hagel",
             "Evan Bouchard",
-            "Auston Matthews",
+            "Leon Draisaitl",
             "Connor Bedard",
             "Cutter Gauthier"
         ],
@@ -27,7 +27,7 @@
             "Tage Thompson",
             "Kyle Connor",
             "Jack Hughes",
-            "Chris Kreider",
+            "Lucas Raymond",
             "Nathan MacKinnon",
             "Sebastian Aho",
             "Lane Hutson",
@@ -69,7 +69,7 @@
             "Evan Bouchard",
             "Sebastian Aho",
             "Logan Stankoven",
-            "Carter Verhaeghe",
+            "Jesper Bratt",
             "Matthew Tkachuk",
             "Lucas Raymond"
         ],
@@ -87,7 +87,7 @@
             "Jack Hughes",
             "Nick Suzuki",
             "Evan Bouchard",
-            "Auston Matthews",
+            "Leon Draisaitl",
             "Logan Stankoven",
             "Matthew Tkachuk",
             "Connor Bedard",
@@ -109,7 +109,7 @@
             "Chris Kreider",
             "Nick Suzuki",
             "Victor Hedman",
-            "Logan Stankoven",
+            "Macklin Celebrini",
             "Matthew Tkachuk",
             "Connor Bedard"
         ],
@@ -126,7 +126,7 @@
             "Leon Draisaitl",
             "Cole Caufield",
             "Artemi Panarin",
-            "Timo Meier",
+            "Lucas Raymond",
             "Evan Bouchard",
             "Logan Stankoven",
             "Carter Verhaeghe",
@@ -140,7 +140,7 @@
         ]
     },
     {
-        "team_name": "Jeu de Chaises",
+        "team_name": "Jeux de Chaises",
         "manager": "Simon",
         "players": [
             "Leon Draisaitl",
@@ -148,7 +148,7 @@
             "Jack Hughes",
             "Chris Kreider",
             "Logan Stankoven",
-            "Carter Verhaeghe",
+            "Jesper Bratt",
             "Matthew Tkachuk",
             "Mika Zibanejad",
             "Adam Fox"
@@ -225,7 +225,7 @@
         "players": [
             "Cole Caufield",
             "Artemi Panarin",
-            "Chris Kreider",
+            "Lucas Raymond",
             "Nathan MacKinnon",
             "Tim Stützle",
             "Matthew Tkachuk",
@@ -291,7 +291,7 @@
             "Rasmus Dahlin",
             "Timo Meier",
             "Tim Stützle",
-            "Logan Stankoven"
+            "Matvei Michkov"
         ],
         "teams": [
             "NJD",
