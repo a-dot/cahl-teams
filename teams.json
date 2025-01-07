@@ -1,45 +1,5 @@
 [
     {
-        "team_name": "Les OG",
-        "manager": "David",
-        "players": [
-            "Sam Reinhart",
-            "Kyle Connor",
-            "Jesper Bratt",
-            "Chris Kreider",
-            "Brandon Hagel",
-            "Evan Bouchard",
-            "Leon Draisaitl",
-            "Connor Bedard",
-            "Cutter Gauthier"
-        ],
-        "teams": [
-            "TOR",
-            "DET",
-            "COL"
-        ]
-    },
-    {
-        "team_name": "Les P'tits Mousses",
-        "manager": "Karine",
-        "players": [
-            "Cole Caufield",
-            "Tage Thompson",
-            "Kyle Connor",
-            "Jack Hughes",
-            "Lucas Raymond",
-            "Nathan MacKinnon",
-            "Sebastian Aho",
-            "Lane Hutson",
-            "Adam Fox"
-        ],
-        "teams": [
-            "BOS",
-            "PHI",
-            "WPG"
-        ]
-    },
-    {
         "team_name": "L'ABC",
         "manager": "Philippe",
         "players": [
@@ -99,6 +59,7 @@
             "WPG"
         ]
     },
+
     {
         "team_name": "Les Yeux mobiles",
         "manager": "Richard",
@@ -137,6 +98,46 @@
             "FLA",
             "CHI",
             "WPG"
+        ]
+    },
+    {
+        "team_name": "Les P'tits Mousses",
+        "manager": "Karine",
+        "players": [
+            "Cole Caufield",
+            "Tage Thompson",
+            "Kyle Connor",
+            "Jack Hughes",
+            "Lucas Raymond",
+            "Nathan MacKinnon",
+            "Sebastian Aho",
+            "Lane Hutson",
+            "Adam Fox"
+        ],
+        "teams": [
+            "BOS",
+            "PHI",
+            "WPG"
+        ]
+    },
+    {
+        "team_name": "Les OG",
+        "manager": "David",
+        "players": [
+            "Sam Reinhart",
+            "Kyle Connor",
+            "Jesper Bratt",
+            "Chris Kreider",
+            "Brandon Hagel",
+            "Evan Bouchard",
+            "Leon Draisaitl",
+            "Connor Bedard",
+            "Cutter Gauthier"
+        ],
+        "teams": [
+            "TOR",
+            "DET",
+            "COL"
         ]
     },
     {
