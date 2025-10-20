@@ -238,5 +238,25 @@
             "OTT",
             "COL"
         ]
+    },
+    {
+        "team_name": "Les Déhanchés",
+        "manager": "Odette",
+        "players": [
+            "Nathan MacKinnon",
+            "David Pastrnak",
+            "Clayton Keller",
+            "Mark Scheifele",
+            "Sidney Crosby",
+            "Jesper Bratt",
+            "Tage Thompson",
+            "Pierre-Luc Dubois",
+            "Rasmus Dahlin"
+        ],
+        "teams": [
+            "TBL",
+            "WSH",
+            "COL"
+        ]
     }
 ]
