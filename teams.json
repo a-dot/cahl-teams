@@ -1,303 +1,122 @@
 [
     {
-        "team_name": "L'ABC",
-        "manager": "Philippe",
+        "team_name": "Les robots nordiques",
+        "manager": "David",
         "players": [
-            "Artemi Panarin",
-            "Brady Tkachuk",
-            "Chris Kreider",
+            "Nathan MacKinnon",
+            "David Pastrnak",
+            "Brayden Point",
+            "Tim Stützle",
+            "Sam Reinhart",
+            "Lucas Raymond",
+            "Tage Thompson",
             "Alexis Lafrenière",
-            "Leon Draisaitl",
-            "Carter Verhaeghe",
-            "Aleksander Barkov",
-            "Cutter Gauthier",
-            "Adam Fox"
+            "Rasmus Dahlin"
         ],
         "teams": [
-            "BOS",
-            "CHI",
+            "DET",
+            "FLA",
             "COL"
         ]
     },
     {
-        "team_name": "La Pooler Star",
-        "manager": "Odette",
+        "team_name": "Slapshot salsa",
+        "manager": "Claude A.",
         "players": [
-            "Cole Caufield",
-            "Nikita Kucherov",
-            "Artemi Panarin",
-            "Quinn Hughes",
+            "Nathan MacKinnon",
+            "Nick Suzuki",
+            "Brayden Point",
             "Sebastian Aho",
-            "Logan Stankoven",
-            "Jesper Bratt",
-            "Matthew Tkachuk",
-            "Lucas Raymond"
-        ],
-        "teams": [
-            "FLA",
-            "WPG",
-            "OTT"
-        ]
-    },
-    {
-        "team_name": "Changement de trio",
-        "manager": "Josee",
-        "players": [
-            "Cole Caufield",
-            "Jack Hughes",
-            "Nick Suzuki",
-            "Evan Bouchard",
-            "Leon Draisaitl",
-            "Logan Stankoven",
-            "Matthew Tkachuk",
-            "Connor Bedard",
-            "Lucas Raymond"
-        ],
-        "teams": [
-            "DET",
-            "NYR",
-            "WPG"
-        ]
-    },
-
-    {
-        "team_name": "Les Yeux mobiles",
-        "manager": "Richard",
-        "players": [
-            "Cole Caufield",
-            "Artemi Panarin",
-            "David Pastrnak",
-            "Chris Kreider",
-            "Nick Suzuki",
-            "Victor Hedman",
-            "Logan Stankoven",
-            "Matthew Tkachuk",
-            "Connor Bedard"
-        ],
-        "teams": [
-            "CHI",
-            "FLA",
-            "TBL"
-        ]
-    },
-    {
-        "team_name": "Les Victorieux Couteux",
-        "manager": "Jean-Francois",
-        "players": [
-            "Leon Draisaitl",
-            "Cole Caufield",
-            "Artemi Panarin",
-            "Lucas Raymond",
-            "Quinn Hughes",
-            "Logan Stankoven",
-            "Carter Verhaeghe",
-            "Matthew Tkachuk",
-            "Connor Bedard"
-        ],
-        "teams": [
-            "FLA",
-            "CHI",
-            "WPG"
-        ]
-    },
-    {
-        "team_name": "Les P'tits Mousses",
-        "manager": "Karine",
-        "players": [
+            "Sam Reinhart",
             "Cole Caufield",
             "Tage Thompson",
-            "Kyle Connor",
-            "Jack Hughes",
-            "Lucas Raymond",
-            "Nathan MacKinnon",
-            "Sebastian Aho",
-            "Lane Hutson",
-            "Quinn Hughes"
+            "Zack Bolduc",
+            "Lane Hutson"
         ],
         "teams": [
+            "CAR",
+            "MTL",
+            "CBJ"
+        ]
+    },
+        {
+        "team_name": "Les Hurluberlus",
+        "manager": "Matante Lyne",
+        "players": [
+            "Nikita Kucherov",
+            "Panarin Artemi",
+            "Brayden Point",
+            "Tim Stützle",
+            "Sidney Crosby",
+            "Cole Caufield",
+            "Seth Jarvis",
+            "Ivan Demidov",
+            "Zach Werenski"
+        ],
+        "teams": [
+            "FLA",
             "BOS",
-            "PHI",
-            "WPG"
+            "COL"
         ]
     },
     {
-        "team_name": "Les OG",
-        "manager": "David",
+        "team_name": "Les jaguars",
+        "manager": "Karine",
         "players": [
-            "Sam Reinhart",
+            "Nathan MacKinnon",
+            "Nick Suzuki",
             "Kyle Connor",
-            "Jesper Bratt",
-            "Lucas Raymond",
-            "Brandon Hagel",
-            "Evan Bouchard",
-            "Leon Draisaitl",
-            "Connor Bedard",
-            "Cutter Gauthier"
+            "Tim Stützle",
+            "Jake Guentzel",
+            "Cole Caufield",
+            "Tage Thompson",
+            "Zack Bolduc",
+            "Adam Fox"
         ],
         "teams": [
             "TOR",
-            "DET",
-            "COL"
-        ]
-    },
-    {
-        "team_name": "Jeu de Chaises",
-        "manager": "Simon",
-        "players": [
-            "Leon Draisaitl",
-            "Cole Caufield",
-            "Jack Hughes",
-            "Lucas Raymond",
-            "Logan Stankoven",
-            "Jesper Bratt",
-            "Matthew Tkachuk",
-            "Mika Zibanejad",
-            "Adam Fox"
-        ],
-        "teams": [
-            "MTL",
-            "FLA",
-            "CAR"
-        ]
-    },
-    {
-        "team_name": "Les Pousse la Poc",
-        "manager": "Helene",
-        "players": [
-            "Leon Draisaitl",
-            "Tage Thompson",
-            "Travis Konecny",
-            "Artemi Panarin",
-            "Lucas Raymond",
-            "Evan Bouchard",
-            "Logan Stankoven",
-            "Matthew Tkachuk",
-            "Connor Bedard"
-        ],
-        "teams": [
-            "DET",
-            "FLA",
-            "WPG"
+            "BOS",
+            "STL"
         ]
     },
     {
         "team_name": "Les Pas Tineux",
         "manager": "Yvon",
         "players": [
-            "Dylan Larkin",
-            "Kyle Connor",
-            "Jack Hughes",
+            "Mikko Rantanen",
             "Nick Suzuki",
-            "Drake Batherson",
-            "Victor Hedman",
-            "Leon Draisaitl",
-            "Sebastian Aho",
-            "Lane Hutson"
-        ],
-        "teams": [
-            "PHI",
-            "NYR",
-            "TBL"
-        ]
-    },
-    {
-        "team_name": "La Coconut",
-        "manager": "Matante Lyne",
-        "players": [
-            "Cole Caufield",
-            "Nikita Kucherov",
-            "Jack Hughes",
-            "Evan Bouchard",
-            "Jesper Bratt",
-            "Matthew Tkachuk",
-            "Connor Bedard",
-            "Matvei Michkov",
-            "Lucas Raymond"
-        ],
-        "teams": [
-            "PHI",
-            "FLA",
-            "WPG"
-        ]
-    },
-    {
-        "team_name": "Les Fuckin Pucks",
-        "manager": "Claude",
-        "players": [
-            "Cole Caufield",
-            "Artemi Panarin",
-            "Lucas Raymond",
-            "Nathan MacKinnon",
-            "Tim Stützle",
-            "Matthew Tkachuk",
-            "Connor Bedard",
-            "Quinn Hughes",
-            "Lane Hutson"
-        ],
-        "teams": [
-            "PHI",
-            "FLA",
-            "CAR"
-        ]
-    },
-    {
-        "team_name": "La Fille de Ski",
-        "manager": "Lyne A.",
-        "players": [
-            "Cole Caufield",
-            "Artemi Panarin",
-            "Lucas Raymond",
-            "Nathan MacKinnon",
-            "Evan Bouchard",
-            "Logan Stankoven",
-            "Carter Verhaeghe",
-            "Matthew Tkachuk",
-            "Aleksander Barkov"
-        ],
-        "teams": [
-            "DET",
-            "NYR",
-            "CAR"
-        ]
-    },
-    {
-        "team_name": "Les Chuckaneers",
-        "manager": "Charles",
-        "players": [
-            "Leon Draisaitl",
+            "Brady Tkachuk",
+            "Nico Hischier",
+            "Dylan Strome",
             "Cole Caufield",
             "Tage Thompson",
-            "Jack Hughes",
-            "Lucas Raymond",
-            "Victor Hedman",
-            "Matthew Tkachuk",
-            "Macklin Celebrini",
-            "Connor Bedard"
+            "Alexis Lafrenière",
+            "Lane Hutson"
+        ],
+        "teams": [
+            "TBL",
+            "DET",
+            "CBJ"
+        ]
+    },
+    {
+        "team_name": "Les Pousse la Poc",
+        "manager": "Helene",
+        "players": [
+            "Nikita Kucherov",
+            "David Pastrnak",
+            "Clayton Keller",
+            "Sebastian Aho",
+            "J.T. Miller",
+            "Jesper Bratt",
+            "Matvei Michkov",
+            "Zack Bolduc",
+            "Rasmus Dahlin"
         ],
         "teams": [
             "TOR",
-            "MTL",
-            "COL"
-        ]
-    },
-    {
-        "team_name": "Les Canariens",
-        "manager": "Guy",
-        "players": [
-            "William Nylander",
-            "Nikita Kucherov",
-            "Kyle Connor",
-            "Nico Hischier",
-            "Brandon Hagel",
-            "Rasmus Dahlin",
-            "Lucas Raymond",
-            "Tim Stützle",
-            "Matvei Michkov"
-        ],
-        "teams": [
-            "NJD",
-            "WPG",
-            "OTT"
+            "OTT",
+            "WPG"
         ]
     }
 ]
