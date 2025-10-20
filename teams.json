@@ -118,5 +118,45 @@
             "OTT",
             "WPG"
         ]
+    },
+    {
+        "team_name": "Changement de trio",
+        "manager": "Josée",
+        "players": [
+            "Auston Matthews",
+            "Nick Suzuki",
+            "Brady Tkachuk",
+            "Mark Scheifele",
+            "Sam Reinhart",
+            "Cole Caufield",
+            "John Tavares",
+            "Ivan Demidov",
+            "Jake Sanderson"
+        ],
+        "teams": [
+            "TOR",
+            "MTL",
+            "WPG"
+        ]
+    },
+    {
+        "team_name": "IA Choice",
+        "manager": "Jean-Francois",
+        "players": [
+            "Nathan MacKinnon",
+            "David Pastrnak",
+            "Brayden Point",
+            "Sebastian Aho",
+            "Sam Reinhart",
+            "Jesper Bratt",
+            "Tage Thompson",
+            "Pierre-Luc Dubois",
+            "Rasmus Dahlin"
+        ],
+        "teams": [
+            "FLA",
+            "BOS",
+            "COL"
+        ]
     }
 ]
