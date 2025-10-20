@@ -158,5 +158,85 @@
             "BOS",
             "COL"
         ]
+    },
+    {
+        "team_name": "CanaRiens",
+        "manager": "Guy",
+        "players": [
+            "Kirill Kaprizov",
+            "William Nylander",
+            "Clayton Keller",
+            "Sebastian Aho",
+            "Sam Reinhart",
+            "Logan Cooley",
+            "Seth Jarvis",
+            "Zach Werenski",
+            "Zack Bolduc"
+        ],
+        "teams": [
+            "CAR",
+            "MTL",
+            "UTA"
+        ]
+    },
+    {
+        "team_name": "Les Icebusters",
+        "manager": "Lyne A.",
+        "players": [
+            "Nathan MacKinnon",
+            "Nick Suzuki",
+            "Brayden Point",
+            "Sebastian Aho",
+            "Jake Guentzel",
+            "Cole Caufield",
+            "Tage Thompson",
+            "Zack Bolduc",
+            "Zach Werenski"
+        ],
+        "teams": [
+            "TBL",
+            "MTL",
+            "COL"
+        ]
+    },
+    {
+        "team_name": "Les Zambonis Sauvages",
+        "manager": "Simon",
+        "players": [
+            "Nathan MacKinnon",
+            "Mitch Marner",
+            "Kyle Connor",
+            "Tim Stützle",
+            "Sam Reinhart",
+            "Cole Caufield",
+            "Seth Jarvis",
+            "Pierre-Luc Dubois",
+            "Rasmus Dahlin"
+        ],
+        "teams": [
+            "TOR",
+            "OTT",
+            "WPG"
+        ]
+    },
+    {
+        "team_name": "Les Pucks Norris",
+        "manager": "Charles",
+        "players": [
+            "Nathan MacKinnon",
+            "Artemi Panarin",
+            "Kyle Connor",
+            "Tim Stützle",
+            "Sam Reinhart",
+            "Jesper Bratt",
+            "Seth Jarvis",
+            "Ivan Demidov",
+            "Zach Werenski"
+        ],
+        "teams": [
+            "TBL",
+            "OTT",
+            "COL"
+        ]
     }
 ]
