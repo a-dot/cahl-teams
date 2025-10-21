@@ -258,5 +258,25 @@
             "WSH",
             "COL"
         ]
+    },
+    {
+        "team_name": "Les S'ul Tard",
+        "manager": "Philippe",
+        "players": [
+            "Mikko Rantanen",
+            "David Pastrnak",
+            "Kyle Connor",
+            "Mark Scheifele",
+            "Dylan Strome",
+            "Logan Cooley",
+            "Tage Thompson",
+            "Oliver Kapanen",
+            "Victor Hedman"
+        ],
+        "teams": [
+            "CAR",
+            "DET",
+            "WPG"
+        ]
     }
 ]
