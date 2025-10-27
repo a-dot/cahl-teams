@@ -1,6 +1,6 @@
 [
     {
-        "team_name": "Les robots nordiques",
+        "team_name": "Les Robots Nordiques",
         "manager": "David",
         "players": [
             "Nathan MacKinnon",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "team_name": "Slapshot salsa",
+        "team_name": "Slapshot Salsa",
         "manager": "Claude A.",
         "players": [
             "Nathan MacKinnon",
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "team_name": "Les jaguars",
+        "team_name": "Les Jaguars",
         "manager": "Karine",
         "players": [
             "Nathan MacKinnon",
@@ -120,7 +120,7 @@
         ]
     },
     {
-        "team_name": "Changement de trio",
+        "team_name": "Changement de Trio",
         "manager": "Josée",
         "players": [
             "Auston Matthews",
