@@ -5,7 +5,7 @@
         "players": [
             "Nathan MacKinnon",
             "David Pastrnak",
-            "Brayden Point",
+            "Kyle Connor",
             "Tim Stützle",
             "Sam Reinhart",
             "Lucas Raymond",
@@ -25,7 +25,7 @@
         "players": [
             "Nathan MacKinnon",
             "Nick Suzuki",
-            "Brayden Point",
+            "Kyle Connor",
             "Sebastian Aho",
             "Sam Reinhart",
             "Cole Caufield",
@@ -45,7 +45,7 @@
         "players": [
             "Nikita Kucherov",
             "Panarin Artemi",
-            "Brayden Point",
+            "Matt Boldy",
             "Tim Stützle",
             "Sidney Crosby",
             "Cole Caufield",
@@ -76,7 +76,7 @@
         "teams": [
             "TOR",
             "BOS",
-            "STL"
+            "COL"
         ]
     },
     {
@@ -85,7 +85,7 @@
         "players": [
             "Mikko Rantanen",
             "Nick Suzuki",
-            "Brady Tkachuk",
+            "Kyle Connor",
             "Nico Hischier",
             "Dylan Strome",
             "Cole Caufield",
@@ -107,7 +107,7 @@
             "David Pastrnak",
             "Clayton Keller",
             "Sebastian Aho",
-            "J.T. Miller",
+            "Sidney Crosby",
             "Jesper Bratt",
             "Matvei Michkov",
             "Zachary Bolduc",
@@ -123,7 +123,7 @@
         "team_name": "Changement de Trio",
         "manager": "Josée",
         "players": [
-            "Auston Matthews",
+            "Nathan McKinnon",
             "Nick Suzuki",
             "Brady Tkachuk",
             "Mark Scheifele",
@@ -150,7 +150,7 @@
             "Sam Reinhart",
             "Jesper Bratt",
             "Tage Thompson",
-            "Pierre-Luc Dubois",
+            "Ivan Demidov",
             "Rasmus Dahlin"
         ],
         "teams": [
@@ -168,7 +168,7 @@
             "Clayton Keller",
             "Sebastian Aho",
             "Sam Reinhart",
-            "Logan Cooley",
+            "Brad Marchand",
             "Seth Jarvis",
             "Zach Werenski",
             "Zachary Bolduc"
@@ -185,7 +185,7 @@
         "players": [
             "Nathan MacKinnon",
             "Nick Suzuki",
-            "Brayden Point",
+            "Matt Boldy",
             "Sebastian Aho",
             "Jake Guentzel",
             "Cole Caufield",
@@ -228,7 +228,7 @@
             "Kyle Connor",
             "Tim Stützle",
             "Sam Reinhart",
-            "Jesper Bratt",
+            "Brad Marchand",
             "Seth Jarvis",
             "Ivan Demidov",
             "Zach Werenski"
@@ -250,7 +250,7 @@
             "Sidney Crosby",
             "Jesper Bratt",
             "Tage Thompson",
-            "Pierre-Luc Dubois",
+            "Ivan Demidov",
             "Rasmus Dahlin"
         ],
         "teams": [
@@ -271,7 +271,7 @@
             "Logan Cooley",
             "Tage Thompson",
             "Oliver Kapanen",
-            "Victor Hedman"
+            "Zach Werenski"
         ],
         "teams": [
             "CAR",
