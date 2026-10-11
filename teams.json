@@ -1,282 +1,297 @@
 [
     {
-        "team_name": "Les Robots Nordiques",
+        "team_name": "Puck et Crachat",
         "manager": "David",
+        "players": [
+            "Connor McDavid",
+            "David Pastrnak",
+            "Jason Robertson",
+            "Matthew Tkachuk",
+            "Sam Reinhart",
+            "Tage Thompson",
+            "Nico Hischier",
+            "Shane Pinto",
+            "Cale Makar"
+        ],
+        "teams": [
+            "FLA",
+            "TOR",
+            "DAL"
+        ],
+        "quebec_round": "Alexis Lafrenière"
+    },
+    {
+        "team_name": "Le Champion",
+        "manager": "Claude A.",
+        "players": [
+            "Macklin Celebrini",
+            "David Pastrnak",
+            "Jason Robertson",
+            "Mitch Marner",
+            "Jake Guentzel",
+            "Juraj Slafkovský",
+            "Ivan Demidov",
+            "Logan Stankoven",
+            "Evan Bouchard"
+        ],
+        "teams": [
+            "MTL",
+            "NJD",
+            "UTA"
+        ],
+        "quebec_round": "Alexis Lafrenière"
+    },
+    {
+        "team_name": "Poutine de Laval",
+        "manager": "Matante Lyne",
         "players": [
             "Nathan MacKinnon",
             "David Pastrnak",
-            "Kyle Connor",
+            "Martin Necas",
+            "Mitch Marner",
+            "Brandon Hagel",
             "Tim Stützle",
-            "Sam Reinhart",
-            "Lucas Raymond",
-            "Tage Thompson",
-            "Alexis Lafrenière",
-            "Zach Werenski"
-        ],
-        "teams": [
-            "DET",
-            "FLA",
-            "COL"
-        ]
-    },
-    {
-        "team_name": "Slapshot Salsa",
-        "manager": "Claude A.",
-        "players": [
-            "Nathan MacKinnon",
-            "Nick Suzuki",
-            "Kyle Connor",
-            "Sebastian Aho",
-            "Sam Reinhart",
-            "Cole Caufield",
-            "Tage Thompson",
-            "Zachary Bolduc",
-            "Zach Werenski"
-        ],
-        "teams": [
-            "CAR",
-            "MTL",
-            "CBJ"
-        ]
-    },
-        {
-        "team_name": "Les Hurluberlus",
-        "manager": "Matante Lyne",
-        "players": [
-            "Nikita Kucherov",
-            "Panarin Artemi",
-            "Matt Boldy",
-            "Tim Stützle",
-            "Sidney Crosby",
-            "Cole Caufield",
-            "Seth Jarvis",
             "Ivan Demidov",
-            "Zach Werenski"
+            "Gavin McKenna",
+            "Cale Makar"
         ],
         "teams": [
+            "MTL",
             "TBL",
-            "BOS",
-            "COL"
-        ]
+            "DAL"
+        ],
+        "quebec_round": "Alexis Lafrenière"
     },
     {
-        "team_name": "Les Jaguars",
+        "team_name": "Les p'tits vites",
         "manager": "Karine",
         "players": [
-            "Nathan MacKinnon",
-            "Nick Suzuki",
-            "Kyle Connor",
-            "Tim Stützle",
+            "Macklin Celebrini",
+            "David Pastrnak",
+            "Matt Boldy",
+            "Mark Scheifele",
             "Jake Guentzel",
-            "Cole Caufield",
-            "Tage Thompson",
-            "Zachary Bolduc",
-            "Zach Werenski"
+            "Tim Stützle",
+            "Will Smith",
+            "Chris Kreider",
+            "Quinn Hughes"
         ],
         "teams": [
-            "TOR",
+            "BUF",
             "BOS",
-            "COL"
-        ]
+            "DAL"
+        ],
+        "quebec_round": "Claude Giroux"
     },
     {
         "team_name": "Les Pas Tineux",
         "manager": "Yvon",
         "players": [
-            "Mikko Rantanen",
+            "Nathan MacKinnon",
             "Nick Suzuki",
-            "Kyle Connor",
-            "Nico Hischier",
-            "Dylan Strome",
+            "Martin Necas",
+            "Mitch Marner",
             "Cole Caufield",
             "Tage Thompson",
-            "Alexis Lafrenière",
-            "Lane Hutson"
+            "Nick Schmaltz",
+            "Logan Stankoven",
+            "Evan Bouchard"
         ],
         "teams": [
+            "COL",
             "TBL",
-            "DET",
-            "CBJ"
-        ]
+            "DAL"
+        ],
+        "quebec_round": "Claude Giroux"
     },
     {
         "team_name": "Les Pousse la Poc",
         "manager": "Helene",
         "players": [
-            "Nikita Kucherov",
-            "David Pastrnak",
-            "Clayton Keller",
-            "Sebastian Aho",
-            "Sidney Crosby",
-            "Jesper Bratt",
-            "Matvei Michkov",
-            "Zachary Bolduc",
-            "Rasmus Dahlin"
+            "Connor McDavid",
+            "Kirill Kaprizov",
+            "Jason Robertson",
+            "Mark Scheifele",
+            "Jake Guentzel",
+            "Tim Stützle",
+            "Will Smith",
+            "Gavin McKenna",
+            "Cale Makar"
         ],
         "teams": [
-            "TOR",
-            "OTT",
-            "WPG"
-        ]
+            "MTL",
+            "NJD",
+            "UTA"
+        ],
+        "quebec_round": "Alexis Lafrenière"
     },
     {
-        "team_name": "Changement de Trio",
+        "team_name": "On reste au Canada...le plus possible",
         "manager": "Josée",
         "players": [
-            "Nathan MacKinnon",
+            "Connor McDavid",
             "Nick Suzuki",
-            "Kyle Connor",
+            "Jason Robertson",
             "Mark Scheifele",
-            "Sam Reinhart",
             "Cole Caufield",
-            "John Tavares",
+            "Juraj Slafkovský",
             "Ivan Demidov",
-            "Jake Sanderson"
+            "Alex Newhook",
+            "Lane Hutson"
         ],
         "teams": [
-            "TOR",
             "MTL",
-            "WPG"
-        ]
+            "OTT",
+            "DAL"
+        ],
+        "quebec_round": "Zachary Bolduc"
     },
     {
-        "team_name": "IA Choice",
+        "team_name": "Drette dans le Net",
         "manager": "Jean-Francois",
         "players": [
-            "Nathan MacKinnon",
-            "David Pastrnak",
-            "Kyle Connor",
+            "Connor McDavid",
+            "Jack Eichel",
+            "Clayton Keller",
             "Sebastian Aho",
-            "Sam Reinhart",
-            "Jesper Bratt",
-            "Tage Thompson",
-            "Ivan Demidov",
-            "Rasmus Dahlin"
+            "Jake Guentzel",
+            "Dylan Guenther",
+            "Will Smith",
+            "Gavin McKenna",
+            "Evan Bouchard"
+        ],
+        "teams": [
+            "COL",
+            "TBL",
+            "SJS"
+        ],
+        "quebec_round": "Alexis Lafrenière"
+    },
+    {
+        "team_name": "Les CARNEYRIENS",
+        "manager": "Guy",
+        "players": [
+            "Macklin Celebrini",
+            "Kirill Kaprizov",
+            "Clayton Keller",
+            "Matthew Tkachuk",
+            "Cutter Gauthier",
+            "Juraj Slafkovský",
+            "Will Smith",
+            "Shane Pinto",
+            "Quinn Hughes"
         ],
         "teams": [
             "FLA",
             "BOS",
-            "COL"
-        ]
-    },
-    {
-        "team_name": "Les CanaRiens",
-        "manager": "Guy",
-        "players": [
-            "Nathan MacKinnon",
-            "William Nylander",
-            "Clayton Keller",
-            "Sebastian Aho",
-            "Sam Reinhart",
-            "Brad Marchand",
-            "Seth Jarvis",
-            "Zach Werenski",
-            "Zachary Bolduc"
+            "MIN"
         ],
-        "teams": [
-            "CAR",
-            "MTL",
-            "UTA"
-        ]
+        "quebec_round": "Zachary Bolduc"
     },
     {
-        "team_name": "Les Icebusters",
-        "manager": "Lyne A.",
-        "players": [
-            "Nathan MacKinnon",
-            "Nick Suzuki",
-            "Matt Boldy",
-            "Sebastian Aho",
-            "Jake Guentzel",
-            "Cole Caufield",
-            "Tage Thompson",
-            "Juraj Slafkovský",
-            "Zach Werenski"
-        ],
-        "teams": [
-            "TBL",
-            "MTL",
-            "COL"
-        ]
-    },
-    {
-        "team_name": "Les Zambonis Sauvages",
+        "team_name": "Les North Stars",
         "manager": "Simon",
         "players": [
             "Nathan MacKinnon",
-            "Mitch Marner",
-            "Kyle Connor",
-            "Tim Stützle",
-            "Sam Reinhart",
-            "Cole Caufield",
-            "Seth Jarvis",
-            "Oliver Kapanen",
-            "Zach Werenski"
-        ],
-        "teams": [
-            "TOR",
-            "OTT",
-            "WPG"
-        ]
-    },
-    {
-        "team_name": "Les Pucks Norris",
-        "manager": "Charles",
-        "players": [
-            "Nathan MacKinnon",
-            "Artemi Panarin",
-            "Kyle Connor",
-            "Tim Stützle",
-            "Sam Reinhart",
-            "Cole Caufield",
-            "Seth Jarvis",
+            "Kirill Kaprizov",
+            "Jason Robertson",
+            "Matthew Tkachuk",
+            "Brandon Hagel",
+            "Tage Thompson",
             "Ivan Demidov",
-            "Zach Werenski"
+            "Chris Kreider",
+            "Cale Makar"
         ],
         "teams": [
+            "COL",
             "TBL",
-            "OTT",
-            "COL"
-        ]
+            "DAL"
+        ],
+        "quebec_round": "Alexis Lafrenière"
     },
     {
-        "team_name": "Les Déhanchés",
+        "team_name": "Mère-Grand",
         "manager": "Odette",
         "players": [
-            "Nathan MacKinnon",
+            "Connor McDavid",
             "David Pastrnak",
-            "Clayton Keller",
-            "Mark Scheifele",
-            "Sidney Crosby",
-            "Cole Caufield",
+            "Jason Robertson",
+            "Mitch Marner",
+            "Sam Reinhart",
             "Tage Thompson",
             "Ivan Demidov",
-            "Rasmus Dahlin"
+            "Chris Kreider",
+            "Cale Makar"
         ],
         "teams": [
-            "TBL",
-            "WSH",
-            "COL"
-        ]
+            "FLA",
+            "TOR",
+            "DAL"
+        ],
+        "quebec_round": "Alexis Lafrenière"
     },
     {
-        "team_name": "Les S'ul Tard",
+        "team_name": "Gorfous s.a.b.a. (sauteurs aux belles aigrettes)",
         "manager": "Philippe",
         "players": [
-            "Nathan MacKinnon",
-            "David Pastrnak",
-            "Kyle Connor",
-            "Mark Scheifele",
-            "Dylan Strome",
-            "Logan Cooley",
-            "Tage Thompson",
-            "Oliver Kapanen",
+            "Leon Draisaitl",
+            "Nick Suzuki",
+            "Martin Necas",
+            "Matthew Tkachuk",
+            "Cole Caufield",
+            "Tim Stützle",
+            "Ivan Demidov",
+            "Shane Pinto",
             "Zach Werenski"
+        ],
+        "teams": [
+            "MTL",
+            "BOS",
+            "ANA"
+        ],
+        "quebec_round": "Zachary Bolduc"
+    },
+    {
+        "team_name": "Les Ratons Baveurs",
+        "manager": "Jeremy",
+        "players": [
+            "Connor McDavid",
+            "Nick Suzuki",
+            "Jason Robertson",
+            "Sidney Crosby",
+            "Cole Caufield",
+            "Dylan Guenther",
+            "Nick Schmaltz",
+            "Chris Kreider",
+            "Cale Makar"
+        ],
+        "teams": [
+            "BUF",
+            "TOR",
+            "UTA"
+        ],
+        "quebec_round": "Alexis Lafrenière"
+    },
+    {
+        "team_name": "Le Rooky",
+        "manager": "Normand D",
+        "players": [
+            "Nikita Kucherov",
+            "Kirill Kaprizov",
+            "Auston Matthews",
+            "Sebastian Aho",
+            "Jake Guentzel",
+            "Tage Thompson",
+            "Nico Hischier",
+            "Logan Stankoven",
+            "Cale Makar"
         ],
         "teams": [
             "CAR",
-            "DET",
-            "WPG"
-        ]
+            "TBL",
+            "DAL"
+        ],
+        "quebec_round": "Alexis Lafrenière"
     }
 ]
+
